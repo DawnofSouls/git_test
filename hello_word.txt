@@ -1,3 +1,4 @@
 Hello World! 01/09/23
 Hola!
 Testing Git Message Editor! 
+Testing Git Message Editor via Visual Studio! 
